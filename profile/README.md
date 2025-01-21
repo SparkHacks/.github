@@ -15,7 +15,7 @@ __Community__: Surviving Computer Science is all about building your support net
 Here you get a chance to ideate and code with your friends as you eat free food, wear-free merch, play games, and win amazing prizes!
 
 ### When? Where? How do I join the team?  
-All up to date info regarding this year's SparkHacks will be at [https://sparkhacksatuic.com](https://sparkhacksatuic.com/)
+All up to date info regarding this year's SparkHacks will be at [sparkhacks.org](https://www.sparkhacks.org/)
 <!--
 
 **Here are some ideas to get you started:**
